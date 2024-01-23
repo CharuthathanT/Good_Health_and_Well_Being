@@ -1,0 +1,19 @@
+#logbgd
+{
+    background-image: url("https://cdn.pixabay.com/photo/2020/11/02/19/52/doctor-5707722_1280.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#uname{
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#cardbg
+{
+    background-color: rgba(255, 255, 255, 0.5);
+    border: none;
+    width: 500px;
+    padding: 40px;
+}

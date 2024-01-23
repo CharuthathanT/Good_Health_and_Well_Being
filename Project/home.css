@@ -1,0 +1,35 @@
+#bgim1
+{
+    background-image: url("https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-left: 100px;
+}
+#fix
+{
+    background-image: url("https://media.istockphoto.com/id/1388254153/photo/shot-of-a-baby-sitting-on-her-mothers-lap-while-being-examined-by-a-doctor.webp?s=2048x2048&w=is&k=20&c=bRMQjku9Qgnm2O7PiXQi52LeZfpnX7Qb0Q239JCJLXo=");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    padding-left: 100px;
+}
+#fimg
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+.cpy{
+    background-color:#bfd6ff;
+}
+#h{
+    color: #1f6c03;
+}
+.division
+{
+    background-color: #bfd6ff   ;
+}

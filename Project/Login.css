@@ -1,0 +1,19 @@
+#logbg
+{
+    background-image: url("https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_1280.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#uname{
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#cardbg
+{
+    background-color: rgba(255, 255, 255, 0.5);
+    border: none;
+    width: 500px;
+    padding: 40px;
+}
